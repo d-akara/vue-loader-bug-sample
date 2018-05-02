@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "outDir": "dist",
+    "baseUrl": "./src",
+    "rootDir": "./src",
+    "inlineSourceMap": false,
+    "inlineSources": true,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": [
+    "src"
+  ]
+}
